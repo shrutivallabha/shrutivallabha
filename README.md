@@ -1,14 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Shruti Vallabha Sharma</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate React Native | Android developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutivallabha&label=Profile%20views&color=0e75b6&style=flat" alt="shrutivallabha" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
-
-- 💬 Ask me about **Android**
+- 🙌 I'm currently open to: **Software Engineering | React Native Role | Android Developer Role**
 
 - 📫 How to reach me **shrutivallabha.sharma@gmail.com**
 
